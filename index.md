@@ -7,6 +7,9 @@ tagline: Supporting tagline
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
+日本語はいるかな
+あいうえお
+
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
 ## Update Author Attributes

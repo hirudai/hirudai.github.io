@@ -11,6 +11,10 @@ Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.ht
 
 あいうえお
 
+すうしき入るかな
+
+$$a^2 + b^2 = c^2$$
+
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
 ## Update Author Attributes
